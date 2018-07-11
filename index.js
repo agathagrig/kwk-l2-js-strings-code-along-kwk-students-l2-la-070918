@@ -2,3 +2,4 @@
 
 var currentUser = "Agatha Grig"
 
+const welcome
