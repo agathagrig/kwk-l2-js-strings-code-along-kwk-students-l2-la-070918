@@ -2,4 +2,4 @@
 
 var currentUser = "Agatha Grig"
 
-const welcomeMessage = ""
+const welcomeMessage = "Welcome to Klossy Book"
